@@ -12,11 +12,12 @@ programa {
     leia(nome)
     escreva("Qual é a sua idade? ", idade)
     leia(idade)
-    escreva("Qual a sua altura?", altura)
+    escreva("Qual a sua altura? ", altura)
     leia(altura)
-    escreva("Qual o seu gênero?", genero)
+    escreva("Qual o seu gênero? ", genero)
     leia(genero)
     escreva("É estudante? ", estudante)
+    leia(estudante)
   
     //saída de dados 
     escreva("Seu nome é: ", nome, "\n")
