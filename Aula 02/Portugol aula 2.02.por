@@ -18,8 +18,6 @@ programa {
     leia(genero)
     escreva("É estudante? ", estudante)
   
-
-
     //saída de dados 
     escreva("Seu nome é: ", nome, "\n")
     escreva("Então sua idade: ", idade, "\n")
