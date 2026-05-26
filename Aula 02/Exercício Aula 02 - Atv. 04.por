@@ -21,7 +21,3 @@ escreva("O terceiro ângulo do triângulo é: ", resposta)
    
   }
 }
-
-
-
-180 = angulo3 - resto
